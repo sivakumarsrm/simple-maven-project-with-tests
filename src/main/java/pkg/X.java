@@ -6,5 +6,5 @@ public class X {
     /**
      * Does something.
      */
-    public void someMethod() {}
+    public void someMethod() { System.out.println("Welcome");}
 }
